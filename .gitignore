@@ -7,3 +7,5 @@ notebooks
 data
 .DS_Store
 venv
+.idea/
+*.h5ad
